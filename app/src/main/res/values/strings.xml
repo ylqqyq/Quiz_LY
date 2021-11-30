@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">Animal Expert Quiz</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="false_btn">False</string>
+    <string name="true_btn">True</string>
+    <string name="false_answer">false</string>
+    <string name="true_answer">true</string>
+    <string name="lion">Male lions do 90 percent of the hunting</string>
+    <string name="narwhal">Narwhal tusks are horns</string>
+    <string name="puffin">Puffins use twigs to scratch their bodies</string>
+    <string name="cow">Cows painted with zebra-like stripes can avoid being bitten by flies</string>
+    <string name="bear">A grizzly bear\'s bite is strong enough to crush a bowling ball</string>
+    <string name="chimp">Wild chimps enjoy alcoholic drinks</string>
+    <string name="horse">Female horses have more teeth than their male counterparts</string>
+    <string name="koala">Koalas\' fingerprints are similar to human\'s</string>
+    <string name="reindeer">Reindeer eyes turn gold in the winter</string>
+    <string name="cat">Adult cats communicate with each other by meowing</string>
+    <string name="dog">Dogs have way more taste buds than humans</string>
+    <string name="correct_msg">You got it!</string>
+    <string name="wrong_msg">You are not getting it</string>
+    <string name="get_average">Get average</string>
+    <string name="select_number_of_question">Select number of question</string>
+    <string name="clear_saved_attempts">Clear saved attempts</string>
+
+
+</resources>

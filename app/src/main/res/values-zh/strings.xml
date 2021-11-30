@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="true">动物百科</string>
+    <string name="lion">90%的狩猎由雄狮完成</string>
+    <string name="narwhal">独角鲸的独角是犄角</string>
+    <string name="puffin">海鹦鹉会用树枝挠痒痒</string>
+    <string name="cow">把牛涂上斑马的条纹之后蚊蝇就不咬了</string>
+    <string name="bear">灰熊的咬合力足以咬坏保龄球</string>
+    <string name="chimp">在野外黑猩猩会喝酒精饮料</string>
+    <string name="horse">母马比公马多很多牙齿</string>
+    <string name="koala">考拉的指纹和人类非常相像</string>
+    <string name="reindeer">驯鹿的眼睛在冬天会变成金色</string>
+    <string name="cat">成年猫咪之间会通过喵喵叫沟通</string>
+    <string name="dog">狗比人的味蕾多很多</string>
+    <string name="false_btn">错</string>
+    <string name="true_btn">对</string>
+    <string name="correct_msg">答对了</string>
+    <string name="wrong_msg">答错了</string>
+    <string name="get_average">平均成绩</string>
+    <string name="select_number_of_question">设置问题数量</string>
+    <string name="clear_saved_attempts">清空记录</string>
+</resources>
